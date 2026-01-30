@@ -7,5 +7,5 @@ def sumar(a, b, c):
     return a + b + c
 print(sumar(3, 5, 7))
 
-def expo (num,exp)
+def expo (num,exp):
     return num**exp
